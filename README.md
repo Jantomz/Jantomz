@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Jaden/Jantomz
+
+I'm currently a high school senior based in Ottawa, Ontario.
+
+LinkedIn: [Jaden Zhang](https://www.linkedin.com/in/jaden-zhang-43921029b/)
+Website: [www.jadenzhang.com](jadenzhang.com)
 
 <!--
 **Jantomz/Jantomz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
