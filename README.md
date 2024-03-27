@@ -3,6 +3,7 @@
 I'm currently a high school senior based in Ottawa, Ontario.
 
 LinkedIn: [Jaden Zhang](https://www.linkedin.com/in/jaden-zhang-43921029b/)
+
 Website: [www.jadenzhang.com](jadenzhang.com)
 
 <!--
