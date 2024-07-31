@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Jaden/Jantomz
 
-I'm currently a high school senior based in Ottawa, Ontario.
+I'm a Freshman at Harvard College in Cambridge, MA.
 
-LinkedIn: [Jaden Zhang](https://www.linkedin.com/in/jaden-zhang-43921029b/)
+LinkedIn: [Jaden Zhang](https://www.linkedin.com/in/jadenqzhang)
 
 Website: [jadenzhang.com](https://www.jadenzhang.com)
 
