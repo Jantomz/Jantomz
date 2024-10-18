@@ -1,10 +1,14 @@
 ### Hi there 👋 I'm Jaden/Jantomz
 
-I'm a Freshman at Harvard College in Cambridge, MA.
+I'm a Freshman at Harvard College studying computer science and statistics.
 
 LinkedIn: [Jaden Zhang](https://www.linkedin.com/in/jadenqzhang)
 
-Website: [jadenzhang.com](https://www.jadenzhang.com)
+I'm currently taking
+- CS50 (Introduction to Computer Science)
+- Expos20 (Expository Writing 20)
+- Ancient Greek Heroes
+- Math 1b (Calculus BC)
 
 <!--
 **Jantomz/Jantomz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
