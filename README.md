@@ -4,7 +4,7 @@ I'm a Freshman at Harvard College studying computer science and statistics.
 
 LinkedIn: [Jaden Zhang](https://www.linkedin.com/in/jadenqzhang)
 
-I'm currently taking
+**I'm currently taking**
 - CS51 (Abstraction and Design)
 - CS20 (Discrete Maths for CS)
 - Math 21a (Multivar Calc)
