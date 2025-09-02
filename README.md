@@ -1,16 +1,21 @@
 ### Hi there 👋 I'm Jaden
 
-I'm a Freshman at Harvard College studying computer science, statistics, and neuroscience.
+I'm a Sophomore at Harvard College studying computer science and statistics.
 
 LinkedIn: [Jaden Zhang](https://www.linkedin.com/in/jadenqzhang)
 
 **I'm currently taking**
+- Math 22A (Vector Calculus and Linear Algebra I)
+- CompSci 1200 (Introduction to Algorithms and their Limitations)
+- English 189VG (Videogames and Storytelling)
+- Stat 110 (Introduction to Probability)
+
+**I've taken**
 - Psych1 (Introduction to Psychology)
 - CS20 (Discrete Maths for CS)
 - Math 21a (Multivar Calc)
 - ES94 (Entrepreneurship and Innovation)
-
-**I've taken**
+  
 - CS50 (Introduction to CS)
 - Expos20 (Expository Writing 20)
 - Ancient Greek Heroes
