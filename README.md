@@ -5,12 +5,16 @@ I'm a Sophomore at Harvard College studying computer science and statistics.
 LinkedIn: [Jaden Zhang](https://www.linkedin.com/in/jadenqzhang)
 
 **I'm currently taking**
+- CS1240 (Data Structures and Algorithms)
+- CS2050 (High Performance Computing)
+- Philosophy of Technology
+
+**I've taken**
 - Math 22A (Vector Calculus and Linear Algebra I)
 - CompSci 1200 (Introduction to Algorithms and their Limitations)
 - English 189VG (Videogames and Storytelling)
 - Stat 110 (Introduction to Probability)
 
-**I've taken**
 - Psych1 (Introduction to Psychology)
 - CS20 (Discrete Maths for CS)
 - Math 21a (Multivar Calc)
