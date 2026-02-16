@@ -11,7 +11,7 @@ LinkedIn: [Jaden Zhang](https://www.linkedin.com/in/jadenqzhang)
 
 **I've taken**
 - Math 22A (Vector Calculus and Linear Algebra I)
-- CompSci 1200 (Introduction to Algorithms and their Limitations)
+- CS1200 (Introduction to Algorithms and their Limitations)
 - English 189VG (Videogames and Storytelling)
 - Stat 110 (Introduction to Probability)
 
